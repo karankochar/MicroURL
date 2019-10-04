@@ -6,7 +6,7 @@ export default class Navbar extends Component{
         return(
             <div className='navbar'>
                 <header>
-                    <h3>MicroURL</h3>
+                    <h2>MicroURL</h2>
                 <nav>
                 <ul class='links'>
                     <li><a href= '#'>Home</a></li>

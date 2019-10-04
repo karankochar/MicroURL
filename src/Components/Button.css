@@ -1,0 +1,6 @@
+.butt{
+    display: flex;
+    justify-content : flex-start;
+    align-items: center;
+    padding: 0px 10% 0px;
+}
